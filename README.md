@@ -8,5 +8,5 @@ Beatiful Soup doesn't work well with javascript rendered pages.
 Feel free to fork this repo and modify it to pull in more pins.
 
 `pip install -r requirements.txt`
-Then modify the pinterestUsername and run the script. 
+Then modify the `pinterestUsername` and run the script. 
 @author: aak
